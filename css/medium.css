@@ -1,0 +1,27 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow{
+    background-color:#FFC017; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid #414141;
+    
+}
+.aside-buttons>li{
+    margin-bottom: 10px;
+}
+
+.border-top-dark{
+    border: 1px solid rgba(230,230,230,1);
+}
+.taglist{
+    font-size: 14px;
+}
+.taglist>li{
+    margin-top: 20px;
+    margin-right: 15px !important; 
+}
+.btn-outline-secondary{
+    border-color:#d3d3d3;
+}
